@@ -249,8 +249,8 @@
 5. [栈与队列：匹配问题都是栈的强项](./problems/1047.删除字符串中的所有相邻重复项.md)
 6. [栈与队列：有没有想过计算机是如何处理表达式的？](./problems/0150.逆波兰表达式求值.md)
 7. [栈与队列：滑动窗口里求最大值引出一个重要数据结构](./problems/0239.滑动窗口最大值.md)
-8. [栈与队列：求前 K 个高频元素和队列有啥关系？](./problems/0347.前K个高频元素.md)
-9. [栈与队列：总结篇！](./problems/栈与队列总结.md)
+8. [栈与队列：求前 K 个高频元素和队列有啥关系？](./problems/0347.前K个高频元素.md) - revisit after learning binary tree
+9. [栈与队列：总结篇！](./problems/栈与队列总结.md) - Apr 27 finish - learning about binary tree
 
 ## 二叉树 
 
