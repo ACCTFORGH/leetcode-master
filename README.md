@@ -299,8 +299,8 @@
 
 <img src='https://img-blog.csdnimg.cn/20210219192050666.png' width=600 alt='回溯算法大纲'> </img></div>
 
-1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
-2. [回溯算法：组合问题](./problems/0077.组合.md) - 1 May target
+1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md) - 1 May finish
+2. [回溯算法：组合问题](./problems/0077.组合.md) - 1 May target - 1 May touched
 3. [回溯算法：组合问题再剪剪枝](./problems/0077.组合优化.md)
 4. [回溯算法：求组合总和！](./problems/0216.组合总和III.md)
 5. [回溯算法：电话号码的字母组合](./problems/0017.电话号码的字母组合.md)
@@ -318,7 +318,7 @@
 17. [本周小结！（回溯算法系列三）](./problems/周总结/20201112回溯周末总结.md)
 18. [回溯算法去重问题的另一种写法](./problems/回溯算法去重问题的另一种写法.md)
 19. [回溯算法：重新安排行程](./problems/0332.重新安排行程.md)
-20. [回溯算法：N皇后问题](./problems/0051.N皇后.md)
+20. [回溯算法：N皇后问题](./problems/0051.N皇后.md) - 2 May target
 21. [回溯算法：解数独](./problems/0037.解数独.md)
 22. [一篇总结带你彻底搞透回溯算法！](./problems/回溯总结.md)
 
